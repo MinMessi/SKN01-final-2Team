@@ -515,3 +515,15 @@ yarn-error.log
 
 # exclude .env
 .env
+
+# exclude .json
+*.json
+
+# exclude .png, jpg, jpeg, gif
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# exclude *.txt
+*.txt
